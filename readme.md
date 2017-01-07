@@ -337,6 +337,7 @@
  * [High Scalability](https://highscalability.wordpress.com/)
  * [Highly Scalable](http://highscalability.com/)
  * [Ops School](http://www.opsschool.org)
+ * [UpGuard] (https://www.upguard.com/blog/devops-resources-online)
 
 ## Commandline
 
