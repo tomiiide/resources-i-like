@@ -93,6 +93,7 @@
   * [Migrating an Angular 1 app to Angular 2 - Part 1](https://auth0.com/blog/migrating-an-angular-1-app-to-angular-2-part-1/)
   * [Migrating an Angular 1 app to Angular 2 - Part 2](https://auth0.com/blog/migrating-an-angular-1-app-to-angular-2-part-2/)
   * [Migrating an Angular 1 app to Angular 2 - Part 3](https://auth0.com/blog/migrating-an-angular-1-app-to-angular-2-part-3/)
+  * [Jumping in with Angular 2](https://thinkster.io/tutorials/mean-stack/jumping-in-with-angular)
 
 
 #### AngularJS Directives I have Found Useful for Quick Saas Apps
@@ -259,6 +260,7 @@
   * [devdactic.com](https://devdactic.com/)
   * [blog.nraboy.com](https://blog.nraboy.com/)
   * [gonehybrid.com](http://gonehybrid.com/)
+  * [thinkster.com](https://thinkster.io/topics/ionic)
 
 ### Specific Resource
   * [Ionic Adventures](https://github.com/juarezpaf/ionic-adventures)
@@ -337,6 +339,7 @@
  * [High Scalability](https://highscalability.wordpress.com/)
  * [Highly Scalable](http://highscalability.com/)
  * [Ops School](http://www.opsschool.org)
+ * [UpGuard] (https://www.upguard.com/blog/devops-resources-online)
 
 ## Commandline
 
